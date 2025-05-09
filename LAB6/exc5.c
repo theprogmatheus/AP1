@@ -3,11 +3,15 @@
 void main()
 {
 
-    int input, menor;
+    int input = 0, menor = -1;
 
     while (input != -1)
     {
-        input = scanf("%d", &input);
+        printf("Insira um valor: ");
+        scanf("%d", &input);
+
+        if (menor == -1)
+            menor = input;
 
         if (input >= 0)
         {

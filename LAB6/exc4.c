@@ -10,5 +10,5 @@ void main(){
         soma += counter;
     }
 
-    pritnf("Soma total: %d\n", soma);
+    printf("Soma total: %d\n", soma);
 }
