@@ -6,6 +6,6 @@ void main()
 
     while (counter != 100){
         counter++;
-        printf("Contador: %d", counter);
+        printf("Contador: %d\n", counter);
     }
 }
