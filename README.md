@@ -49,7 +49,7 @@ gcc nome_do_arquivo.c -o programa
 
 
 ---
-🪟 Windows (com MinGW)
+### 🪟 Windows (com MinGW)
 
 ```bash
 gcc nome_do_arquivo.c -o programa.exe
