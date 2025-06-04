@@ -34,6 +34,7 @@ Tudo isso com foco em desenvolvimento em **Linguagem C**, aprendendo a pensar co
  - 📂 LAB6 (C)
  - 📂 LAB7 (C)
  - 📂 LAB8 (C)
+ - 📂 LAB9 (C)
  - 📜 README.md
  
 > Cada pasta LAB (C) contém arquivos `.c` com exercícios numerados e comentados.
