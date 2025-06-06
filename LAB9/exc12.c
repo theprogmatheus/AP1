@@ -92,7 +92,7 @@ void main()
     show_numbers(&v);   
 
     // aguarda o jogador decorar
-    sleep(10);
+    sleep(2);
 
     // esconde a sequencia
     hide_numbers();
